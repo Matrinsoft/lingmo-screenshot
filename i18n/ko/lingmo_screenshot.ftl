@@ -1,4 +1,3 @@
-screenshot-saved-to-clipboard = 클립보드�?스크린샷 저장됨
-screenshot-saved-to = 다음 위치�?스크린샷 저장됨:
-lingmo-screenshot = COSMIC 스크린샷
-
+screenshot-saved-to-clipboard = 韥措氤措摐鞐?鞀ろ伂毽办兎 鞝€鞛ル惃
+screenshot-saved-to = 雼れ潓 鞙勳箻鞐?鞀ろ伂毽办兎 鞝€鞛ル惃:
+lingmo-screenshot = LINGMO 鞀ろ伂毽办兎
