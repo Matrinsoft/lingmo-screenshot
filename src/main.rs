@@ -140,7 +140,7 @@ async fn main() {
             .notify(
                 &fl!("cosmic-screenshot"),
                 0,
-                "com.system76.CosmicScreenshot",
+                "com.lingmoos.LingmoScreenshot",
                 &message,
                 &path,
                 &[],

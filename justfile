@@ -1,5 +1,5 @@
-name := 'cosmic-screenshot'
-export APPID := 'com.system76.CosmicScreenshot'
+name := 'lingmo-screenshot'
+export APPID := 'com.lingmoos.LingmoScreenshot'
 
 rootdir := ''
 prefix := '/usr'
